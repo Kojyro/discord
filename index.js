@@ -341,5 +341,5 @@ Client.on("messageCreate", message => {
 
 
     //login important
-Client.login("OTI0NzA3MTYyNTQwODY3NTk1.Yciepw.iR7QAFAISR6O8rfyZVdxG29hXko")
+Client.login(process.env.TOKEN)
 
