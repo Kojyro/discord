@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "discord.js": "^13.5.0",
+    "dotenv": "^10.0.0"
+  },
+  "name": "snk-main",
+  "description": "for my bot to my server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kojyro/SnK.git"
+  },
+  "author": "Kojyro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kojyro/SnK/issues"
+  },
+  "homepage": "https://github.com/Kojyro/SnK#readme"
+}
